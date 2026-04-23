@@ -1,0 +1,2 @@
+# Pneumonia-Detction-from-X-ray
+Deep learning model for detecting pneumonia from chest X-ray images. Uses CNNs to classify images as normal or infected, with preprocessing, training, and evaluation. Demonstrates how AI can support faster and more accurate medical diagnosis.
